@@ -18,7 +18,7 @@ HEAGAWGHE-
 ```
 
 ## [MSA - Star Alignment](https://github.com/Amirhossein-Rajabpour/Bioinformatics-Course-Assignments/blob/main/HW3/main.py)
-This code comprises two parts. In the first part `Star Alignment` which is a `Multuple Sequence Alignment` was implemented. Second part was a modification step which had to find blocks that can be modified and replace these blocks in the sequences after alignments. <br>
+This code comprises two parts. In the first part `Star Alignment` which is a `Multiple Sequence Alignment` was implemented. Second part was a modification step which had to find blocks that can be modified and replace these blocks in the sequences after alignments. <br>
 It takes a number which indicated how many sequences we have. After that sequences are given. It outputs the final MSA score and aligned and modified sequences. <br>
 
 Sample input:
